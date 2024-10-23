@@ -1,0 +1,25 @@
+
+1.	Import necessary csv for reading the CSV file 
+
+2.	Define a function analyze_financial_records that takes the file path and performs the analysis: 
+
+o	Reads the CSV file and calculates the required values.
+o	Calculates the total number of months and net total profit/losses.
+o	Calculates the changes in profit/losses and their average.
+o	Finds the greatest increase and decrease in profits with their corresponding dates.
+
+3.	Sets the file path for the input CSV file.
+
+4.	Analyze_financial records 
+
+5.	Prints the results 
+
+6.	Exports the results to a text file named "financial_analysis_results.txt".
+
+To use this script:
+
+1.	Place the "budget_data.csv" file in the same directory as this script.
+
+2.	Run the script 
+
+
